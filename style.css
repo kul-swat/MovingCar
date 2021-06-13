@@ -1,0 +1,25 @@
+#back {
+  background: url(back-img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: auto;
+  height: 590px;
+}
+#road {
+  background: url(road.jpg);
+}
+#car {
+  width: 150px;
+}
+#btn {
+  background-color: yellow;
+  width: 100px;
+  height: 60px;
+  font-size: large;
+}
+#btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
